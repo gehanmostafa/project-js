@@ -1,0 +1,23 @@
+
+.product-item{
+    text-align: center;
+    height: 252px;
+    padding: 0px;
+    font-weight: bold;
+    
+}
+.item{
+margin: 20px 30px ;
+}
+.items{
+    height: 100vh;
+}
+.parent-info{
+  height: 30vh;
+   
+}
+.info-price ,
+.btn-info
+{
+    margin: 10px  auto;
+}
